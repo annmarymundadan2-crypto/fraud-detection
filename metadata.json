@@ -1,0 +1,6 @@
+{
+  "name": "UPI Fraud Bench",
+  "description": "Interactive comparison and live transaction scoring workbench for ANN (Keras) and Random Forest (scikit-learn) UPI fraud detection models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
